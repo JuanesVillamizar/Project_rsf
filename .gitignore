@@ -1,9 +1,9 @@
 /node_modules
-/storage/*.key
 /vendor
 .env
-.env.backup
-.phpunit.result.cache
+.env.example
+.phpunit
+
 Homestead.json
 Homestead.yaml
 npm-debug.log
