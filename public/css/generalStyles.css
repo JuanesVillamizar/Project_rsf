@@ -1,0 +1,13 @@
+.list-photos-search:hover{
+    background-color: #f0f0f0;
+}
+.list-photos-search{
+    background-color: white;
+}
+.list-photos-search > a.elementSearch{
+    text-decoration: none;
+}
+.list-photos-search > a.elementSearch:hover{
+    color: #4e555b;
+    text-decoration: none;
+}
